@@ -90,7 +90,7 @@ swiggy-restaurant-analytics/
 
 ## 👤 Author
 
-**Your Name**  
+**Adam Tuscano**  
 Aspiring Data Analyst | Power BI | Python | SQL  
 [LinkedIn](https://linkedin.com/in/yourprofile) | 
-[Email](mailto:your@email.com)
+[Email](adamtuscano12@gmail.com)
