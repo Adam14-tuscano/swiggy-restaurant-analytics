@@ -32,10 +32,10 @@ cuisine-level insights using Python and Power BI.
 ![Page 1](https://raw.githubusercontent.com/Adam14-tuscano/swiggy-restaurant-analytics/main/Screenshot%202026-06-15%20011219.png)
 
 ### Page 2 — City & Cuisine Analysis
-![Page 2](https://github.com/Adam14-tuscano/swiggy-restaurant-analytics/blob/main/Screenshot%202026-06-15%20011249.png)
+![Page 2](https://raw.githubusercontent.com/Adam14-tuscano/swiggy-restaurant-analytics/main/Screenshot%202026-06-15%20011249.png)
 
 ### Page 3 — Delivery Performance
-![Page 3](https://github.com/Adam14-tuscano/swiggy-restaurant-analytics/blob/main/Screenshot%202026-06-15%20011304.png)
+![Page 3](https://raw.githubusercontent.com/Adam14-tuscano/swiggy-restaurant-analytics/main/Screenshot%202026-06-15%20011304.png)
 
 ---
 
@@ -93,4 +93,4 @@ swiggy-restaurant-analytics/
 **Adam Tuscano**  
 Aspiring Data Analyst | Power BI | Python | SQL  
 [LinkedIn](https://www.linkedin.com/in/adam-tuscano-2727281b8/) | 
-[Email] [adamtuscano12@gmail.com](mailto:adamtuscano12@gmail.com)
+[Email](mailto:adamtuscano12@gmail.com)
