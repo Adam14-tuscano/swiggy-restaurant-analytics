@@ -84,7 +84,7 @@ swiggy-restaurant-analytics/
 ## 📄 Documents
 
 - 📋 [Business Requirements Document](https://github.com/Adam14-tuscano/swiggy-restaurant-analytics/blob/main/Swiggy_BRD.docx)
-- 📊 [5-Point Insights Report](https://github.com/Adam14-tuscano/swiggy-restaurant-analytics/blob/main/Swiggy_BRD.docx)
+- 📊 [5-Point Insights Report](https://github.com/Adam14-tuscano/swiggy-restaurant-analytics/blob/main/Swiggy_Insights_Report.docx)
 
 ---
 
