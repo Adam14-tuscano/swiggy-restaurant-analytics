@@ -29,7 +29,7 @@ cuisine-level insights using Python and Power BI.
 ## 📊 Dashboard Pages
 
 ### Page 1 — Executive KPIs
-![Page 1](dashboard/page1_executive_kpis.png)
+![Page 1](https://github.com/Adam14-tuscano/swiggy-restaurant-analytics/blob/main/Screenshot%202026-06-15%20011219.png)
 
 ### Page 2 — City & Cuisine Analysis
 ![Page 2](dashboard/page2_city_cuisine.png)
